@@ -1,4 +1,4 @@
-# MA2-final
+# MA2-zaključno nalogo
 Some code for my Final Modal Analysis 2 report:
 
 ma20131 - heat transfer via conduction;
