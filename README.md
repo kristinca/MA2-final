@@ -1,5 +1,5 @@
 # MA2-zaključno nalogo
-Some code for my Final Model Analysis 2 report:
+Some code for my Final Model Analysis II report:
 
 ma20131 - heat transfer via conduction;\
 The domain is a square and we have Dirichlet b.c. at the left and right edge, at top and bottom of the domain we have Neumann b.c.\
